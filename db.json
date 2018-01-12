@@ -1,0 +1,22 @@
+{
+  "data": {
+    "google" : {
+      "expectUserResponse": false,
+      "isSsml": false,
+      "noInputPrompts" : [],
+      "richResponse" : {
+        "items" : [
+          {
+          "simpleResponse" : {
+            "textToSpeech": "The temperature in the fermenter is 68.9 degrees fahrenheit",
+            "displayText" : "The temperature in the fermenter is 68.9 degrees fahrenheit"
+          }
+         }
+        ]
+      }
+    }
+  },
+    "profile": {
+    "name": "typicode"
+  }
+}
