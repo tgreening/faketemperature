@@ -1,4 +1,5 @@
 {
+  "temperature" : {
   "data": {
     "google" : {
       "expectUserResponse": false,
@@ -15,5 +16,6 @@
         ]
       }
     }
+  }
   }
 }
